@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-t4ohlh.indocuan.online/sitemap.xml
